@@ -4,6 +4,8 @@ Readme
 <h3 align="center">“Cuando uno ama lo que hace, siempre es mas facil dar lo mejor de uno mismo”</h3>
 <h2 align="right">Steve Pavlina</h2>
 
+<img src="https://img.freepik.com/fotos-premium/astronauta-espacio-purpura-ai-generativo-fondo_169016-37243.jpg"/>
+
 <h3>Un poco sobre mi</h3>
 <p>Soy de Argentina, un gran fanatico de "hacer". Sin querer y durante toda mi vida, no he hecho mas cumplir mis hobbies,
 tengo la fortuna de que mi inquietúd siempre me ha llevado a vivir y comer de lo que amo hacer. Aunque tal véz ahí yo me
