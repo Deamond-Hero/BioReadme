@@ -1,6 +1,6 @@
 # BioReadme
 Readme
-<h1 align="center">Hola 👋, soy Leandro Brangi y gran un seguidor de esta idea:</h1>
+<h1 align="center">Hola 👋, soy Leandro Brangi y les comparto una frase que me gusta:</h1>
 <h3 align="center">“Cuando uno ama lo que hace, siempre es mas facil dar lo mejor de uno mismo”</h3>
 <h2 align="right">Steve Pavlina</h2>
 
