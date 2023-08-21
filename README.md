@@ -1,7 +1,9 @@
 # BioReadme
 Readme
-<h1 align="center">Hi 👋, I'm Leandro Brangi y considero que:</h1>
+<h1 align="center">Hi 👋, I'm Leandro Brangi y soy un seguidor de esta idea:</h1>
 <h3 align="center">“Cuando uno ama lo que hace, siempre es mas facil dar lo mejor de uno mismo”</h3>
+<h2 align="right">Steve Pavlina</h2>
+
 
 - 🔭 Actualmente estoy trabajando en [Portfolio](https://github.com/Deamond-Hero/portfolio)
 
