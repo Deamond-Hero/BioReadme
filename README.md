@@ -17,8 +17,16 @@ adquiriendo cierto grado de independecia financiera desde temprana edad. Paralel
 asique inicié mi carrera en diseño gráfico. 
 
 Apasionadamente una vez más relicé mi graduación y conocí a la persona que hoy en día es mi mayor motivación de ser cada dia una mejor persona.
-Con su influencia y la admiración que me causó durante todo este periodo de convivencia, un día comencé a soñar con pertener 
-a una empresa IT como a la que ella pertece, donde el crecimiento está en el horizonte, pero es alcanzable y donde el merito
+
+Luego de esta gran etapa de crecimiento, como ya venía previamente, seguí con mi hobbie/trabajo: de reparar electronicos y compuradoras. Ahora
+añadimos el diseño freelance y posteriormente mi marca propia de creación de articulos personalizados.
+
+Impresora 3D! Laser CNC! Ploter de Corte! uff!! el sueño del PIBEE!
+
+Mientras el tiempo avanzaba, comencé a notar y tener una gran admiración por la persona que tenía a mi lado. Ella trabajaba en el area IT. 
+Mis mayores admiraciones: crecimiento intelectual constante, aprendizaje, reconocimiento por parte de sus compañeros y jefes, grandes valores de compañerismo.
+
+Un día, aquél día, comencé a soñar con pertener a una empresa IT como a la que ella pertece, donde el crecimiento está en el horizonte, pero es alcanzable y donde el merito
 del esfuerzo realmente se hace valer.
 
 Tras hacer muchos cursos introductorios, finalmente me encontré con henry 
@@ -27,7 +35,9 @@ HENRY es una academia digital que busca crear igualdad de oportunidades a travé
 educación, invirtiendo en personas de alto potencial, con compromiso y voluntad, que
 quieran formarse en las tecnologías del futuro.
 
-El lugar que realmente cambió mi persepectiva de lo que era programar, y lo convirtió mi nuevo sueño en una realidad muy proxima</p>
+El lugar que realmente cambió mi persepectiva de lo que era programar, y convirtió mi nuevo sueño, en una realidad muy alcanzable...
+
+y aquí comienza a escribirse mi historia como desarrollador</p>
 
 
 - 🔭 Actualmente estoy trabajando en [Portfolio](https://github.com/Deamond-Hero/portfolio)
