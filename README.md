@@ -1,8 +1,33 @@
 # BioReadme
 Readme
-<h1 align="center">Hi 👋, I'm Leandro Brangi y soy un seguidor de esta idea:</h1>
+<h1 align="center">Hola 👋, soy Leandro Brangi y gran un seguidor de esta idea:</h1>
 <h3 align="center">“Cuando uno ama lo que hace, siempre es mas facil dar lo mejor de uno mismo”</h3>
 <h2 align="right">Steve Pavlina</h2>
+
+<h3>Un poco sobre mi</h3>
+<p>Soy de Argentina, un gran fanatico de "hacer". Sin querer y durante toda mi vida, no he hecho mas cumplir mis hobbies,
+tengo la fortuna de que mi inquietúd siempre me ha llevado a vivir y comer de lo que amo hacer. Aunque tal véz ahí yo me
+confunda. Aún no se distinguir si me apasiono facilmente por las cosas o tengo tendencia a siempre hacer las cosas que me
+apasionan. Yo me inclino mas hacia la primera jaja!</p>
+
+<h3>¿Como terminé programando?</h3>
+<p>Desde muy temprana edad y con la influencia de mi hermano (técnico electronico) y mi padre (hacedor de soluciones estilo Mc Gyber)
+me vi en la grata situación inspiracional de estudiar electronica. De lo cual viví y usé para poder llevar a cabo mis caprichos de joven,
+adquiriendo cierto grado de independecia financiera desde temprana edad. Paralelo a esto, siempre me vi muy atraído por las artes visuales, 
+asique inicié mi carrera en diseño gráfico. 
+
+Apasionadamente una vez más relicé mi graduación y conocí a la persona que hoy en día es mi mayor motivación de ser cada dia una mejor persona.
+Con su influencia y la admiración que me causó durante todo este periodo de convivencia, un día comencé a soñar con pertener 
+a una empresa IT como a la que ella pertece, donde el crecimiento está en el horizonte, pero es alcanzable y donde el merito
+del esfuerzo realmente se hace valer.
+
+Tras hacer muchos cursos introductorios, finalmente me encontré con henry 
+
+HENRY es una academia digital que busca crear igualdad de oportunidades a través de la
+educación, invirtiendo en personas de alto potencial, con compromiso y voluntad, que
+quieran formarse en las tecnologías del futuro.
+
+El lugar que realmente cambió mi persepectiva de lo que era programar, y lo convirtió mi nuevo sueño en una realidad muy proxima</p>
 
 
 - 🔭 Actualmente estoy trabajando en [Portfolio](https://github.com/Deamond-Hero/portfolio)
