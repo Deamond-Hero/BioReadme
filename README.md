@@ -38,14 +38,15 @@ del esfuerzo realmente se hace valer.
 
 Tras hacer muchos cursos introductorios, finalmente me encontré con henry 
 
+<span/>
+<img width="100%" height="50%" overflow="hidden" src="https://assets.soyhenry.com/henry-landing/assets/Henry/logo-white.png"/>
+<span/>
+
 HENRY es una academia digital que busca crear igualdad de oportunidades a través de la
 educación, invirtiendo en personas de alto potencial, con compromiso y voluntad, que
 quieran formarse en las tecnologías del futuro.
 
 El lugar que realmente cambió mi persepectiva de lo que era programar, y convirtió mi nuevo sueño, en una realidad muy alcanzable...</p>
-<span/>
-<img width="100%" height="50%" overflow="hidden" src="https://assets.soyhenry.com/henry-landing/assets/Henry/logo-white.png"/>
-<span/>
 
 <h3>y aquí comienza a escribirse mi historia como desarrollador</h3>
 
