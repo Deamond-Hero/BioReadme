@@ -25,8 +25,13 @@ añadimos el diseño freelance y posteriormente mi marca propia de creación de 
 
 Impresora 3D! Laser CNC! Ploter de Corte! uff!! el sueño del PIBEE!
 
-Mientras el tiempo avanzaba, comencé a notar y tener una gran admiración por la persona que tenía a mi lado. Ella trabajaba en el area IT. 
-Mis mayores admiraciones: crecimiento intelectual constante, aprendizaje, reconocimiento por parte de sus compañeros y jefes, grandes valores de compañerismo.
+Mientras el tiempo avanzaba, comencé a notar y tener una gran admiración por la persona que tenía a mi lado y una gran pérdida de horizonte
+en cuanto a los objetivos que estaba pudiendo cumplir. 
+
+<img width="100%"  src="https://e0.pxfuel.com/wallpapers/754/848/desktop-wallpaper-pixel-space-pixelart-drawing.jpg"/>
+
+
+Ella trabajaba en el area IT. Mis mayores admiraciones: crecimiento intelectual constante, aprendizaje, reconocimiento por parte de sus compañeros y jefes, grandes valores de compañerismo.
 
 Un día, aquél día, comencé a soñar con pertener a una empresa IT como a la que ella pertece, donde el crecimiento está en el horizonte, pero es alcanzable y donde el merito
 del esfuerzo realmente se hace valer.
