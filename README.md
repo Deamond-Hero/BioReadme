@@ -44,9 +44,10 @@ quieran formarse en las tecnologías del futuro.
 
 El lugar que realmente cambió mi persepectiva de lo que era programar, y convirtió mi nuevo sueño, en una realidad muy alcanzable...</p>
 
-<h2>y aquí comienza a escribirse mi historia como desarrollador</h2>
-
 <img width="100%" height="50%" overflow="hidden" src="https://assets.soyhenry.com/henry-landing/assets/Henry/logo-white.png"/>
+<span/>
+
+<h2>y aquí comienza a escribirse mi historia como desarrollador</h2>
 
 
 - 🔭 Actualmente estoy trabajando en mi [Portfolio](https://github.com/Deamond-Hero/portfolio)
