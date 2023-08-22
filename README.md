@@ -46,7 +46,7 @@ El lugar que realmente cambió mi persepectiva de lo que era programar, y convir
 
 y aquí comienza a escribirse mi historia como desarrollador</p>
 
-<img width="100%" height="50%" overflow="hidden" src="https://e0.pxfuel.com/wallpapers/754/848/desktop-wallpaper-pixel-space-pixelart-drawing.jpg](https://assets.soyhenry.com/henry-landing/assets/Henry/logo-white.png"/>
+<img width="100%" height="50%" overflow="hidden" src="https://assets.soyhenry.com/henry-landing/assets/Henry/logo-white.png"/>
 
 
 - 🔭 Actualmente estoy trabajando en [Portfolio](https://github.com/Deamond-Hero/portfolio)
