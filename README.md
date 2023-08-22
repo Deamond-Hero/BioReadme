@@ -49,9 +49,9 @@ y aquí comienza a escribirse mi historia como desarrollador</p>
 <img width="100%" height="50%" overflow="hidden" src="https://assets.soyhenry.com/henry-landing/assets/Henry/logo-white.png"/>
 
 
-- 🔭 Actualmente estoy trabajando en [Portfolio](https://github.com/Deamond-Hero/portfolio)
+- 🔭 Actualmente estoy trabajando en mi [Portfolio](https://github.com/Deamond-Hero/portfolio)
 
-- 🌱 Actualmente estoy desarrollándome en **TypesScript**
+- 🌱 En constante aprendizaje y desarrollándome en **TypesScript**
 
 - 📫 Pueden contactarme a **leandrobrangi@gmail.com**
 
