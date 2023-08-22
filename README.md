@@ -43,7 +43,7 @@ educación, invirtiendo en personas de alto potencial, con compromiso y voluntad
 quieran formarse en las tecnologías del futuro.
 
 El lugar que realmente cambió mi persepectiva de lo que era programar, y convirtió mi nuevo sueño, en una realidad muy alcanzable...</p>
-
+<span/>
 <img width="100%" height="50%" overflow="hidden" src="https://assets.soyhenry.com/henry-landing/assets/Henry/logo-white.png"/>
 <span/>
 
