@@ -51,7 +51,7 @@ El lugar que realmente cambió mi persepectiva de lo que era programar, y convir
 <h3>y aquí comienza a escribirse mi historia como desarrollador</h3>
 
 
-- 🔭 Actualmente estoy trabajando en mi [Portfolio](https://github.com/Deamond-Hero/portfolio)
+- 💼 Mi Portfolio --> https://portfolio-leandrobrangi.netlify.app/
 
 - 🌱 En constante aprendizaje y desarrollándome en **TypesScript**
 
